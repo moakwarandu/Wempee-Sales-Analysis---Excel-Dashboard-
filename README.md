@@ -43,6 +43,10 @@ The following charts and graphs were created to visualize the data:
 * A bar chart schowing the Type of cream, Salesperson and the Sum of sales									
 * A Pie chart showing the Types of Cream and Sales Unit	
 
+![](image.JPG)
+
+
+
 These charts and graphs allow Wempee Company to see trends in their sales data and identify areas for improvement. For example, the company may see that they are selling more ice cream than frozen yogurt, or that they are selling more products in one region than another.
 
 ## Conclusion and Recommendation
