@@ -1,4 +1,6 @@
 # Wempee Sales Analysis - Excel Dashboard
+![](Sales.jpg)
+
 
 ## Introduction
 
