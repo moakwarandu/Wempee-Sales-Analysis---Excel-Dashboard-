@@ -49,18 +49,23 @@ The following charts and graphs were created to visualize the data:
 
 These charts and graphs allow Wempee Company to see trends in their sales data and identify areas for improvement. For example, the company may see that they are selling more ice cream than frozen yogurt, or that they are selling more products in one region than another.
 
-## Conclusion and Recommendation
 
-This Excel dashboard is a valuable tool for Wempee Company to track and analyze their sales data. The dashboard allows the company to see trends in their sales data and identify areas for improvement. Based on the analysis of the data, Wempee Company can make data-driven decisions to improve their sales performance.
+## Conclusion
+
+The creation of this Excel dashboard has been successful in providing Wempee Company with a tool to track and analyze their sales data. This dashboard allows for better business decisions through the visualization of trends and identification of areas for improvement.
 
 
+## Recommendation
 
-## Additional recommendations for Wempee Company:
+Wempee Company can leverage this dashboard to:
 
-* Continue to track and analyze their sales data on a regular basis.
-* Use the sales data to develop targeted marketing campaigns.
-* Use the sales data to develop new products or flavors.
+**Identify top-performing salespeople and regions**: By analyzing the salesperson and region charts, Wempee Company can identify their most successful salespeople and regions. This information can be used to develop sales training programs and marketing campaigns targeted to specific regions.
 
+**Monitor sales trends**: The dashboard allows Wempee Company to easily track sales trends over time. This information can be used to forecast future sales and make informed decisions about inventory levels and pricing strategies.
+
+**Develop new products**: By analyzing sales data by product type, Wempee Company can identify which products are selling well and which products are not. This information can be used to develop new products that are more likely to be successful.
+
+Overall, this Excel dashboard is a valuable tool that can help Wempee Company improve their sales performance and profitability.
 
 
 						
