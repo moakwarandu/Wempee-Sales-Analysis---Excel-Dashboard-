@@ -14,9 +14,21 @@ Wempee Company needs a way to track and analyze their sales data in order to ide
 
 This project demonstrates the following skills:
 
-* Excel: This project uses a variety of Excel functions and features to create a dashboard, including pivot tables, charts, and conditional formatting.
-* Data Analysis: This project requires skills in data cleaning, transformation, and analysis.
-* Business Acumen: This project requires an understanding of sales data and how it can be used to improve business performance.
+- Businesss Understanding
+- Client Communication
+- Effective Communication
+- Visualisation
+- Data Analysis
+- Data Interpretation
+- Data Visualisation
+- Charts & Graphs
+- Creativity
+- Visual Basics
+- Dashboard
+- Data Cleanup
+- Analysis & Presentation
+- Analytics & Insights
+- Exploratoey Data Analysis
 
 ## Data Sourcing
 
